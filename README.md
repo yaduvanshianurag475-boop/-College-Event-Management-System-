@@ -1,2 +1,5 @@
-# -College-Event-Management-System-
-An Event Management System is a software application designed to plan, organize, execute, and evaluate events efficiently. It streamlines the entire event lifecycle, from initial planning to post-event analysis, by integrating tools for scheduling, communication, registration, and reporting.
+# College-Event-Management-System
+### Project Title: College Event Management System 
+### Programming Language: HTML, CSS, MySQL, Php 
+### Project Description: Designing and Hosting College event management system. On this platform students can create profile, look through the event lists, register for the events and organizers can maintain the event registrations. 
+### Link: https://collegeeventmgmt.000webhostapp.com/
